@@ -7,6 +7,7 @@ import CloudIcon from '@mui/icons-material/Cloud';
 import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
 import FoggyIcon from '@mui/icons-material/Foggy';
+import GrainIcon from '@mui/icons-material/Grain';
 import "./ibox.css"
 
 export default function InfoBox({info}){
